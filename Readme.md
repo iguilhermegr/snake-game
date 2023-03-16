@@ -1,7 +1,6 @@
 # <p align="center"> Snake Game 🐍 </p> 
 
-### <div align="center"><code> Snake é um jogo em que a cobra precisa explorar um ambiente e pegar a fruta sem bater em nenhum obstáculo ou em si mesma </code>
-<code> Cada vez que a cobra pega uma fruta, seu tamanho aumenta </code></div>
+### <div align="center"><code> Snake é um jogo em que a cobra precisa explorar um ambiente e pegar a fruta sem bater em nenhum obstáculo ou em si mesma <br> Cada vez que a cobra pega uma fruta, seu tamanho aumenta </code></div>
  
 
 -------------------------------------------------------------------------------------------------------------------------------------------
